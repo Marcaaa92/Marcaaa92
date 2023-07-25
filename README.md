@@ -1,10 +1,10 @@
-### <div align="center">I'm Simone Marcandalli, a full-time full-stack developer 👨‍💻🚀</div>  
+### <div align="center">I'm Simone Marcandalli, a 21 years old full-time full-stack developer 👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently studing in ITS Rizzoli in Milan  
+- 🌱  I studied computer science at ITIS Paleocapa and subsequently I obtained a higher vet certificate at ITS A. Rizzoli as software architect for full stack development.
   
 
-- 💼 I'm currently working in F2Informatica in Milan  
+- 💼 I'm currently working as intern in F2Informatica in Milan  
   
 
 <br/>  
