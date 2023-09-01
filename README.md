@@ -4,7 +4,7 @@
 - 🌱  I studied computer science at ITIS Paleocapa and subsequently I obtained a higher vet certificate at ITS A. Rizzoli as software architect for full stack development.
   
 
-- 💼   I'm currently working as a Software Developer in Engineering SPA as consulentan of F2 Informatica in Milan
+- 💼   I'm currently working as a Software Developer in Engineering SPA as consultant of F2 Informatica in Milan
   
 
 <br/>  
