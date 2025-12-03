@@ -1,4 +1,4 @@
-### <div align="center">I'm Simone Marcandalli, a 22 years old full-time full-stack developer 👨‍💻🚀</div>  
+### <div align="center">I'm Simone Marcandalli, a 23 years old full-time full-stack developer 👨‍💻🚀</div>  
   
 
 - 🌱  I studied computer science at ITIS Paleocapa and subsequently I obtained a higher vet certificate at ITS A. Rizzoli as software architect for full stack development.
